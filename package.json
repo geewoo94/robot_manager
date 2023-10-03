@@ -1,0 +1,15 @@
+{
+  "name": "robot_manager",
+  "version": "1.0.0",
+  "description": "hello world!",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "bun test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bun-types": "^1.0.3",
+    "prettier": "^3.0.3"
+  }
+}
